@@ -13,7 +13,6 @@ UWorldPosition::UWorldPosition()
 	// ...
 }
 
-
 // Called when the game starts
 void UWorldPosition::BeginPlay()
 {
@@ -22,7 +21,6 @@ void UWorldPosition::BeginPlay()
 	// ...
 	
 }
-
 
 // Called every frame
 void UWorldPosition::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
