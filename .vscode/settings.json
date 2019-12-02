@@ -1,7 +1,9 @@
 {
 	"files.exclude": {
+		"E:/Gamedev/repos/Escape/.git": true,
 		"E:/Gamedev/repos/Escape/.vscode": true,
 		"E:/Gamedev/repos/Escape/Content": true,
-		"E:/Gamedev/repos/Escape/Intermediate": true
+		"E:/Gamedev/repos/Escape/Intermediate": true,
+		"E:/Gamedev/repos/Escape/Saved": true
 	}
 }
